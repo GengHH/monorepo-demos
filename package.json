@@ -1,0 +1,26 @@
+{
+	"name": "monorepo-demos",
+	"version": "1.0.0",
+	"description": "using  pnpm to build some demos",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GengHH/monorepo-demos.git"
+	},
+	"keywords": [
+		"pnpm",
+		"vue",
+		"react",
+		"frontend",
+		"monorepo"
+	],
+	"author": "GengHH",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/GengHH/monorepo-demos/issues"
+	},
+	"homepage": "https://github.com/GengHH/monorepo-demos#readme"
+}
